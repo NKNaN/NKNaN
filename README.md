@@ -1,4 +1,10 @@
-### Hi there 👋
+[![MasterHead](your image link)](your GitHub link)
+<img align="right" src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
+
+# AyaseNana
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKNaN\&layout=compact&hide=java)
+
 
 <!--
 **NKNaN/NKNaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
