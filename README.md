@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/NKNaN/NKNaN/blob/main/banner.png)](https://github.com/NKNaN/)
+[![MasterHead]()](https://github.com/NKNaN/)
 
 <p align="center">
   <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
