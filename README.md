@@ -1,9 +1,16 @@
 [![MasterHead](https://github.com/NKNaN/NKNaN/blob/main/banner.png)](https://github.com/NKNaN/)
 
-<img align="right" src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
+<p align="center">
+  <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
+</p>
+
+<p align="center">
+  <a href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats"></a>
+</p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKNaN\&layout=compact&hide=java)
+
+
 
 
 <!--
