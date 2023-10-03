@@ -1,7 +1,7 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://github.com/NKNaN/NKNaN/blob/main/banner.png)](https://github.com/NKNaN/)
+
 <img align="right" src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
 
-# AyaseNana
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKNaN\&layout=compact&hide=java)
 
