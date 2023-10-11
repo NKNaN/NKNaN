@@ -4,10 +4,13 @@
   <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
 </p>
 
-<p align="center">
-  <a href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats"></a>
-</p>
-
+<div align="center">
+    <span align="left" href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats">
+    </span>
+    <span align="right" href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NKNaN&hide=R,java,jupyter%20notebook&theme=radical&show_icons=true" alt="NKNaN's github language stats">
+    </span>
+</div>
+<hr>
 
 
 
