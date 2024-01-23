@@ -4,6 +4,7 @@
   <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
 </p>
 
+<!--
 <div align="center">
     <span align="left" href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats">
     </span>
@@ -11,7 +12,7 @@
     </span>
 </div>
 <hr>
-
+-->
 
 
 
