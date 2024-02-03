@@ -1,34 +1,38 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="node_modules/github-markdown-css/github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-    background: url(/assets/banner3.jpeg) no-repeat center top;
-    background-size:cover;
-    background-attachment:fixed;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-
-  </style>
-<article class="markdown-body">
-
+![banner3](https://github.com/NKNaN/NKNaN/assets/49900969/b2f4fc18-7629-43d7-b64d-8aec303b2349)
+  
   <p align="center">
     <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
   </p>
+  
+<div>
+	<hr>
+</div>
 
-  <video width="480" height="670" controls autoplay loop>
-  <source src="./assets/happy3.mp4" type="video/mp4">
-  </video>
-<article>
+Public Repo PR Record 🌸
+-------------------------
+
+Repo | Link | Merged | Open
+:---: | --- | :---: | :---:
+*Paddle* | [Binomial & Poisson API](https://github.com/PaddlePaddle/Paddle/pull/57856) | 🍀 |
+*Paddle* | [Binomial Sampling Kernel](https://github.com/PaddlePaddle/Paddle/pull/59690) | 🍀 |
+*Paddle* | [ContinuousBernoulli & MultivariateNormal API](https://github.com/PaddlePaddle/Paddle/pull/58004) | 🍀 |
+*PaddleScience* | [HMC API](https://github.com/PaddlePaddle/PaddleScience/pull/541) | 🍀 |
+*PaddleScience* | [NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
+*PaddleMix* | [AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
+
+About me 🌸
+-------------------------
+- 🌱 I’m currently learning computer science as an amateur
+- 🔭 I have a tiny little experience on data science
+- 📫 How to reach me: 
+
+Gifts ~ 🌸
+-------------------------
+
+https://github.com/NKNaN/NKNaN/assets/49900969/62aa18b4-4a49-4326-9e0a-3ed82669a28b
+
+
+
 <!--
 <div align="center">
     <span align="left" href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats">
