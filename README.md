@@ -22,7 +22,7 @@ Repo | Link | Merged | Open
 
  🌸 About me
 -------------------------
-- 🌱 I’m currently learning computer science as an amateur
+- 🌱 I’m currently learning computer science
 - 🔭 I have a tiny little experience on data science
 - 📫 How to reach me: <a target="_blank" href="mailto:liruiwen616115@gmail.com"><img src="assets/google-gmail.svg" width="30" height="20" style="vertical-align:down; margin:0px"></img></a>
 
