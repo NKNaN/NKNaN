@@ -8,7 +8,7 @@
 	<hr>
 </div>
 
-Public Repo PR Record 🌸
+ 🌸 Public Repo PR Record
 -------------------------
 
 Repo | Link | Merged | Open
@@ -20,13 +20,18 @@ Repo | Link | Merged | Open
 *PaddleScience* | [NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
 *PaddleMix* | [AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
 
-About me 🌸
+ 🌸 About me
 -------------------------
 - 🌱 I’m currently learning computer science as an amateur
 - 🔭 I have a tiny little experience on data science
-- 📫 How to reach me: 
+- 📫 How to reach me: <a target="_blank" href="mailto:liruiwen616115@gmail.com"><img src="assets/google-gmail.svg" width="30" height="20" style="vertical-align:down; margin:0px"></img></a>
 
-Gifts ~ 🌸
+
+<div>
+	<hr>
+</div>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Gifts for you ~
 -------------------------
 
 https://github.com/NKNaN/NKNaN/assets/49900969/62aa18b4-4a49-4326-9e0a-3ed82669a28b
