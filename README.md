@@ -19,6 +19,8 @@ Repo | Link | Merged | Open
 *PaddleScience* | [HMC API](https://github.com/PaddlePaddle/PaddleScience/pull/541) | 🍀 |
 *PaddleScience* | [NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
 *PaddleMix* | [AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
+*Paddle* | [API Improvement](https://github.com/PaddlePaddle/Paddle/pull/61726) |  | 🍀 |
+
 
  🌸 About me
 -------------------------
