@@ -8,7 +8,7 @@
 	<hr>
 </div>
 
- 🌸 Public Repo PR Record
+ 🌸 Public Repo PR Record (Selected)
 -------------------------
 
 Repo | Link | Merged | Open
@@ -19,7 +19,9 @@ Repo | Link | Merged | Open
 *PaddleScience* | [HMC API](https://github.com/PaddlePaddle/PaddleScience/pull/541) | 🍀 |
 *PaddleScience* | [NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
 *PaddleMix* | [AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
-*Paddle* | [API Improvement](https://github.com/PaddlePaddle/Paddle/pull/61726) |  | 🍀 |
+*Paddle* | [API Improvement - binary API support py number](https://github.com/PaddlePaddle/Paddle/pull/61726) |  | 🍀 |
+*Paddle* | [API Improvement - upsample data format automatic infer](https://github.com/PaddlePaddle/Paddle/pull/61974) | 🍀 |  |
+
 
 
  🌸 About me
