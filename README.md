@@ -1,4 +1,4 @@
-![banner3](https://github.com/NKNaN/NKNaN/assets/49900969/b2f4fc18-7629-43d7-b64d-8aec303b2349)
+<!--![banner3](https://github.com/NKNaN/NKNaN/assets/49900969/b2f4fc18-7629-43d7-b64d-8aec303b2349)-->
   
   <p align="center">
     <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
