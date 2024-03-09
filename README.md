@@ -17,10 +17,11 @@ Repo | Link | Merged | Open
 *Paddle* | [Binomial Sampling Kernel](https://github.com/PaddlePaddle/Paddle/pull/59690) | 🍀 |
 *Paddle* | [ContinuousBernoulli & MultivariateNormal API](https://github.com/PaddlePaddle/Paddle/pull/58004) | 🍀 |
 *PaddleScience* | [HMC API](https://github.com/PaddlePaddle/PaddleScience/pull/541) | 🍀 |
-*PaddleScience* | [NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
-*PaddleMix* | [AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
+*PaddleScience* | [Code Reproduction - NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
+*PaddleMix* | [Code Reproduction - AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
 *Paddle* | [API Improvement - binary API support py number](https://github.com/PaddlePaddle/Paddle/pull/61726) |  | 🍀 |
 *Paddle* | [API Improvement - upsample data format automatic infer](https://github.com/PaddlePaddle/Paddle/pull/61974) | 🍀 |  |
+*warp-ctc* | [API Improvement - ctc_loss](https://github.com/baidu-research/warp-ctc/pull/180)|  | 🍀 |
 
 
 
