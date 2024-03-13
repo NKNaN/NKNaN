@@ -28,30 +28,30 @@ Repo | Link | Merged | Open
  🌸 About me
 -------------------------
 - 🌱 I’m currently learning computer science
-- 🔭 I have a tiny little experience on data science
+- 🔭 I have some experience on data science
 - 📫 How to reach me: <a target="_blank" href="mailto:liruiwen616115@gmail.com"><img src="assets/google-gmail.svg" width="30" height="20" style="vertical-align:down; margin:0px"></img></a>
 
 
 <div>
 	<hr>
 </div>
-
+<!--
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Gifts for you ~
 -------------------------
 
 https://github.com/NKNaN/NKNaN/assets/49900969/62aa18b4-4a49-4326-9e0a-3ed82669a28b
 
+-->
 
 
-<!--
 <div align="center">
-    <span align="left" href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats">
+    <span href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats">
     </span>
-    <span align="right" href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NKNaN&hide=R,java,jupyter%20notebook&theme=radical&show_icons=true" alt="NKNaN's github language stats">
+    <span href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NKNaN&hide=R,java,jupyter%20notebook&theme=radical&show_icons=true" alt="NKNaN's github language stats">
     </span>
 </div>
-<hr>
--->
+
+
 
 
 
