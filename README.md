@@ -46,9 +46,9 @@ Repo | Link | Merged | Open
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Current Status ~
 -------------------------
 
-<div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NKNaN&theme=material-palenight" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NKNaN&theme=material-palenight" width=930/> </div>
 <div align="center">
-<span align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKNaN&hide_title=true&hide_border=true&layout=compact&theme=material-palenight&card_width=350&line_height=40" height="180"> </span>
-<span align="right"> <img src="https://github-readme-stats.vercel.app/api?username=NKNaN&hide_title=true&theme=material-palenight&card_width=350" height="180"> </span>
+<span align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKNaN&hide_title=true&hide_border=true&layout=compact&theme=material-palenight&card_width=350&line_height=40&border_radius=0" height="180"> </span>
+<span align="right"> <img src="https://github-readme-stats.vercel.app/api?username=NKNaN&hide_title=true&theme=material-palenight&card_width=350&border_radius=0" height="180"> </span>
 </div>
 
