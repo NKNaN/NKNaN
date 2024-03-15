@@ -3,7 +3,7 @@
   <p align="center">
     <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
   </p>
-  
+  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=To%20Live%20Freely%20Like%20A%20Cat;Keep%20curiosity,%20Artless%20And%20Elegance&center=true&size=40&width=600&height=70&font=Lobster&color=E3916E&vCenter=true"> </a> </h1>
 <div>
 	<hr>
 </div>
@@ -25,48 +25,30 @@ Repo | Link | Merged | Open
 
 
 
- 🌸 About me
+ 🌸 About Me
 -------------------------
 - 🌱 I’m currently learning computer science
-- 🔭 I have some experience on data science
+- 🔭 I have some experience in data science
 - 📫 How to reach me: <a target="_blank" href="mailto:liruiwen616115@gmail.com"><img src="assets/google-gmail.svg" width="30" height="20" style="vertical-align:down; margin:0px"></img></a>
 
 
 <div>
 	<hr>
 </div>
+
 <!--
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Gifts for you ~
+	//<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Gifts for you ~
+	//-------------------------
+	
+	//https://github.com/NKNaN/NKNaN/assets/49900969/62aa18b4-4a49-4326-9e0a-3ed82669a28b
+-->
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Current Status ~
 -------------------------
 
-https://github.com/NKNaN/NKNaN/assets/49900969/62aa18b4-4a49-4326-9e0a-3ed82669a28b
-
--->
-
-
+<div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NKNaN&theme=material-palenight" /> </div>
 <div align="center">
-    <span href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api?username=NKNaN&show_icons=true&theme=radical&hide_border=true" alt="NKNaN's github stats">
-    </span>
-    <span href="https://github.com/NKNaN"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NKNaN&hide=R,java,jupyter%20notebook&theme=radical&show_icons=true" alt="NKNaN's github language stats">
-    </span>
+<span align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKNaN&hide_title=true&hide_border=true&layout=compact&theme=material-palenight&card_width=350&line_height=40" height="180"> </span>
+<span align="right"> <img src="https://github-readme-stats.vercel.app/api?username=NKNaN&hide_title=true&theme=material-palenight&card_width=350" height="180"> </span>
 </div>
 
-
-
-
-
-
-<!--
-**NKNaN/NKNaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
