@@ -1,8 +1,10 @@
 <!--![banner3](https://github.com/NKNaN/NKNaN/assets/49900969/b2f4fc18-7629-43d7-b64d-8aec303b2349)-->
-  
+
+<!--
   <p align="center">
     <img src="https://count.getloli.com/get/@:NKNaN?theme=asoul">
   </p>
+-->
   <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=To%20Live%20Freely%20Like%20A%20Cat;Keep%20curiosity,%20Artless%20And%20Elegance&center=true&size=40&width=600&height=70&font=Lobster&color=E3916E&vCenter=true"> </a> </h1>
 <div>
 	<hr>
