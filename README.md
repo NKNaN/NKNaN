@@ -13,14 +13,13 @@
  🌸 Public Repo PR Record (Selected)
 -------------------------
 
-Repo | Link | Merged | Open
+Repo | Link | Merged | Special
 :---: | --- | :---: | :---:
-*Paddle* | [Binomial & Poisson API](https://github.com/PaddlePaddle/Paddle/pull/57856) | 🍀 |
-*Paddle* | [Binomial Sampling Kernel](https://github.com/PaddlePaddle/Paddle/pull/59690) | 🍀 |
-*Paddle* | [ContinuousBernoulli & MultivariateNormal API](https://github.com/PaddlePaddle/Paddle/pull/58004) | 🍀 |
-*PaddleScience* | [HMC API](https://github.com/PaddlePaddle/PaddleScience/pull/541) | 🍀 |
-*PaddleScience* | [Code Reproduction - NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | 🍀 |
-*PaddleMix* | [Code Reproduction - AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | 🍀 |
+*Paddle* | [Binomial & Poisson API](https://github.com/PaddlePaddle/Paddle/pull/57856) | ☘ | First meaningful PR for Paddle |
+*Paddle* | [Binomial Sampling Kernel](https://github.com/PaddlePaddle/Paddle/pull/59690) | ☘ | First PR Related to CUDA kernel |
+*Paddle* | [Normal API support complex number](https://github.com/PaddlePaddle/Paddle/pull/64793) | ☘ | New features supporting complex number |
+*PaddleScience* | [Code Reproduction - NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | ☘ | AI for Science |
+*PaddleMix* | [Code Reproduction - AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | ☘ | Large Generative Model |
 
 
 
