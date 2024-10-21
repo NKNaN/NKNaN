@@ -19,7 +19,7 @@ Repo | Link | Merged | Special
 *Paddle* | [Binomial Sampling Kernel](https://github.com/PaddlePaddle/Paddle/pull/59690) | ☘ | First PR Related to CUDA kernel |
 *Paddle* | [Normal API support complex number](https://github.com/PaddlePaddle/Paddle/pull/64793) | ☘ | New features supporting complex number |
 *Paddle* | [Determinant support complex number](https://github.com/PaddlePaddle/Paddle/pull/68390) | ☘ | New features supporting complex number |
-*Paddle* | [SlogDeterminant support complex number](https://github.com/PaddlePaddle/Paddle/pull/68772) |  | New features supporting complex number |
+*Paddle* | [SlogDeterminant support complex number](https://github.com/PaddlePaddle/Paddle/pull/68772) | ☘ | New features supporting complex number |
 *PaddleScience* | [Code Reproduction - NN for Topology Optimization](https://github.com/PaddlePaddle/PaddleScience/pull/597) | ☘ | AI for Science |
 *PaddleMix* | [Code Reproduction - AudioLDM2](https://github.com/PaddlePaddle/PaddleMIX/pull/366) | ☘ | Large Generative Model |
 
