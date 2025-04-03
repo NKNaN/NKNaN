@@ -27,8 +27,8 @@ Repo | Link | Merged | Special
 
  🌸 About Me
 -------------------------
-- 🌱 I’m currently learning computer science
-- 🔭 I have some experience in data science
+- 🌱 I’m a postgraudate student in the computer science department at HKU
+- 🔭 I have some previous experience in data science modeling and currently learning AI infrastructure engineering
 - 📫 How to reach me: <a target="_blank" href="mailto:liruiwen616115@gmail.com"><img src="assets/google-gmail.svg" width="30" height="20" style="vertical-align:down; margin:0px"></img></a>
 
 
